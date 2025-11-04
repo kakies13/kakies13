@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 👋 Merhaba, Ben Alperen Yıldırım!
+# 👋 Hello, I'm Alperen Yıldırım!
 
 <div align="center">
 
@@ -15,7 +14,7 @@
 
 ---
 
-## 🛠️ Teknolojiler & Araçlar
+## 🛠️ Technologies & Tools
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,7 +35,7 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -50,21 +49,21 @@
 
 ---
 
-## 🌟 Öne Çıkan Projeler
+## 🌟 Featured Projects
 
 ### 🎨 AI Interior Designer
-Gerçekçi oda görselleştirmeleri oluşturmak için AI destekli iç mimarlık aracı
+AI-powered interior design tool for creating realistic room visualizations
 - **Stack:** React, TypeScript, AI/ML, Canvas API
 - **Demo:** [Live Demo](https://ai-interior-designer-214133210231.us-west1.run.app)
 
 ### 💼 Portfolio Website
-Modern ve responsive portfolio web sitesi
+Modern and responsive portfolio website
 - **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase
 - **Demo:** [aylabs.vercel.app](https://aylabs.vercel.app)
 
 ---
 
-## 📈 GitHub Aktivite Grafiği
+## 📈 GitHub Activity Graph
 
 <div align="center">
 
@@ -74,33 +73,33 @@ Modern ve responsive portfolio web sitesi
 
 ---
 
-## 💡 Hakkımda
+## 💡 About Me
 
-Merhaba! Ben **Alperen Yıldırım**, full-stack web geliştiriciyim. Modern web teknolojileri kullanarak kullanıcı dostu ve performanslı uygulamalar geliştirmeyi seviyorum.
+Hello! I'm **Alperen Yıldırım**, a full-stack web developer. I love building user-friendly and performant applications using modern web technologies.
 
-- 🔭 Şu anda **Next.js** ve **React** ile projeler geliştiriyorum
-- 🌱 **AI/ML** ve **Web3** teknolojilerini öğreniyorum
-- 👯 Açık kaynak projelere katkıda bulunmayı seviyorum
-- 💬 **Türkçe**, **Almanca** ve **İngilizce** konuşabiliyorum
-- 📫 Bana ulaşmak için: [alperencsgo@gmail.com](mailto:alperencsgo@gmail.com)
+- 🔭 I'm currently working on projects with **Next.js** and **React**
+- 🌱 I'm learning **AI/ML** and **Web3** technologies
+- 👯 I'm looking to collaborate on open source projects
+- 💬 I speak **Turkish**, **German**, and **English**
+- 📫 How to reach me: [alperencsgo@gmail.com](mailto:alperencsgo@gmail.com)
 
 ---
 
-## 🎯 2024 Hedefleri
+## 🎯 2024 Goals
 
-- [x] Modern portfolio web sitesi oluştur
-- [x] Supabase ile full-stack proje geliştir
-- [ ] AI destekli projeler geliştir
-- [ ] Açık kaynak projelere katkıda bulun
-- [ ] Blog yazıları yaz
+- [x] Build a modern portfolio website
+- [x] Develop a full-stack project with Supabase
+- [ ] Build AI-powered projects
+- [ ] Contribute to open source projects
+- [ ] Write blog posts
 
 ---
 
 <div align="center">
 
-### ⚡ "Kod yazmak bir sanattır, debug etmek ise bir bilimdir."
+### ⚡ "Writing code is an art, debugging is a science."
 
-**⭐ İsterseniz projelerime yıldız verebilirsiniz!**
+**⭐ Feel free to star my repositories!**
 
 ![GitHub followers](https://img.shields.io/github/followers/kakies13?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/kakies13?style=social)
@@ -108,22 +107,3 @@ Merhaba! Ben **Alperen Yıldırım**, full-stack web geliştiriciyim. Modern web
 Made with ❤️ by [kakies13](https://github.com/kakies13)
 
 </div>
-
-=======
-## Hi there 👋
-
-<!--
-**kakies13/kakies13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 36caf25c286bb070089effc839bb8a0f5e78f412
