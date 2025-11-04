@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👋 Merhaba, Ben Alperen Yıldırım!
 
 <div align="center">
@@ -108,3 +109,21 @@ Made with ❤️ by [kakies13](https://github.com/kakies13)
 
 </div>
 
+=======
+## Hi there 👋
+
+<!--
+**kakies13/kakies13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 36caf25c286bb070089effc839bb8a0f5e78f412
