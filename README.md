@@ -4,7 +4,7 @@
 
 **💻 Software Engineer | 🚀 Full-Stack Developer | 📱 Mobile App Developer | 🎨 UI/UX Enthusiast**
 
-[Portfolio](https://aylabs.vercel.app) • [AppGen Studio](https://appgenstudio.de) • [LinkedIn](https://www.linkedin.com/in/alperen-yildirim) • [Email](mailto:alperencsgo@gmail.com)
+[Portfolio](https://aylabs.vercel.app) • [AppGen Studio](https://appgenstudio.de) • [Email](mailto:alperencsgo@gmail.com)
 
 ---
 
