@@ -62,7 +62,7 @@ AI-powered Google Play Store screenshot generator using Gemini 2.5 AI
 * **Stack:** React, TypeScript, Capacitor, Android, Gemini AI, Firebase, AdMob
 * **Features:** AI image generation, Firebase Auth, AdMob integration, Cross-platform
 * **Website:** [appgenstudio.de](https://appgenstudio.de) 🎨
-* **Status:** 🚀 Published to Google Play Store
+* **Status:** 🌐 Web ready • 📱 Coming soon to Google Play Store
 
 ### 🎨 AI Interior Designer
 AI-powered interior design tool for creating realistic room visualizations
@@ -122,7 +122,7 @@ Hello! I'm **Alperen Yıldırım**, a full-stack developer passionate about crea
 
 ## 📱 Mobile Apps Published
 
-* **AI Store Gen** - Google Play Store (Coming Soon)
+* **AI Store Gen** - [Web: appgenstudio.de](https://appgenstudio.de) • 📱 Coming soon to Google Play Store
 * **BillingTick** - Invoice OCR App
 * **QR Scanner Professional** - Global Markets Scanner
 
