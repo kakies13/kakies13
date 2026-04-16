@@ -93,6 +93,34 @@ I'm **Alperen Yıldırım**, a passionate full-stack developer who loves buildin
   <img src="https://github-readme-streak-stats.demolab.com/?user=kakies13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+### 🏆 GitHub Trophies · Başarılar
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kakies13&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+### 📋 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakies13&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakies13&theme=tokyonight" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakies13&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakies13&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakies13&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
+</div>
+
+### 💬 Dev Quote · Günün Sözü
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
+
 ---
 
 ## 📱 Published Mobile Apps · Yayınlanan Uygulamalar
