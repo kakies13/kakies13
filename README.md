@@ -105,10 +105,6 @@ I'm **Alperen Yıldırım**, a passionate full-stack developer who loves buildin
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakies13&theme=tokyonight" alt="Profile Details"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakies13&theme=tokyonight" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakies13&theme=tokyonight" alt="Most Commit Language"/>
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakies13&theme=tokyonight" alt="Stats"/>
