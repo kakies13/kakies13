@@ -90,7 +90,7 @@ I'm **Alperen Yıldırım**, a passionate full-stack developer who loves buildin
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=kakies13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kakies13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🏆 GitHub Trophies · Başarılar
