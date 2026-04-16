@@ -7,7 +7,7 @@
 
 **💻 Software Engineer | 🚀 Full-Stack Developer | 📱 Mobile App Developer | 🎨 UI/UX Enthusiast**
 
-[🌐 Portfolio](https://aylabs.vercel.app) • [🏢 AppGen Studio](https://appgenstudio.de) • [📧 Email](mailto:alperencsgo@gmail.com)
+[🌐 Portfolio](https://aylabs.vercel.app) • [🏢 AppGen Studio](https://appgenstudio.de) • [📧 Email](mailto:abcalperen11@gmail.com)
 
 </div>
 
@@ -24,7 +24,7 @@ I'm **Alperen Yıldırım**, a passionate full-stack developer who loves buildin
 - 🌱 Exploring **AI/ML**, **Web3**, and advanced **Mobile Development**
 - 🤝 Open to collaborate on **open source** and **AI-driven projects**
 - 💬 Languages: **Turkish** 🇹🇷 · **German** 🇩🇪 · **English** 🇬🇧
-- 📫 Reach me at: [alperencsgo@gmail.com](mailto:alperencsgo@gmail.com)
+- 📫 Reach me at: [abcalperen11@gmail.com](mailto:abcalperen11@gmail.com)
 - ⚡ Fun fact: I love turning everyday problems into elegant apps
 
 </details>
@@ -42,7 +42,7 @@ I'm **Alperen Yıldırım**, a passionate full-stack developer who loves buildin
 - 🌱 **AI/ML**, **Web3** ve ileri düzey **Mobil Geliştirme** öğreniyorum
 - 🤝 **Açık kaynak** ve **yapay zeka projeleri** için iş birliğine açığım
 - 💬 Diller: **Türkçe** 🇹🇷 · **Almanca** 🇩🇪 · **İngilizce** 🇬🇧
-- 📫 İletişim: [alperencsgo@gmail.com](mailto:alperencsgo@gmail.com)
+- 📫 İletişim: [abcalperen11@gmail.com](mailto:abcalperen11@gmail.com)
 - ⚡ Eğlenceli bilgi: Günlük problemleri zarif uygulamalara dönüştürmeyi seviyorum
 
 </details>
@@ -125,6 +125,16 @@ I'm **Alperen Yıldırım**, a passionate full-stack developer who loves buildin
 
 - **Stack:** Kotlin, Android, ML Kit, Room Database
 - **Features / Özellikler:** Global markets · Product recognition · Multi-language
+
+---
+
+### 📖 Quran Külliyat — *Education & Religion* · `Coming Soon · Yakında`
+> 🇬🇧 A comprehensive Quran companion app offering full Quran text, Turkish and multi-language translations, audio recitations, prayer times, and more — all offline-capable.  
+> 🇹🇷 Tam Kuran metni, Türkçe ve çok dilli meal, sesli tilavet, namaz vakitleri ve daha fazlasını barındıran kapsamlı bir Kuran külliyat uygulaması — çevrimdışı kullanım destekli.
+
+![Coming Soon](https://img.shields.io/badge/Google_Play-Yakında%20%7C%20Coming%20Soon-orange?style=for-the-badge&logo=google-play&logoColor=white)
+- **Stack:** Kotlin, Android, Room Database, AdMob
+- **Features / Özellikler:** Full Quran offline · TR & multi-language translations · Audio recitations · Prayer times · Bookmarks
 
 ---
 
