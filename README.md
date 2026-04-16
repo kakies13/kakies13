@@ -149,14 +149,14 @@ I'm **Alperen Yıldırım**, a passionate full-stack developer who loves buildin
 
 - **Stack:** React, TypeScript, Capacitor, Android, Gemini AI, Firebase, AdMob
 - **Website:** [appgenstudio.de](https://appgenstudio.de) 🎨
-- **Status:** 🌐 Web ready • 📱 Coming soon to Google Play
+- **Status:** 🔧 Under maintenance · Bakımda — *Coming back soon · Çok yakında geri dönüyor*
 
 ### 🏠 AI Interior Designer
 > 🇬🇧 AI-powered room visualization tool  
 > 🇹🇷 Yapay zeka destekli iç mekan tasarım aracı
 
 - **Stack:** React, TypeScript, AI/ML, Canvas API
-- **Demo:** [Live Demo](https://ai-interior-designer-214133210231.us-west1.run.app)
+- **Status:** 🔧 Under maintenance · Bakımda — *Coming back soon · Çok yakında geri dönüyor*
 
 ### 💼 Portfolio Website
 > 🇬🇧 Modern responsive portfolio  
