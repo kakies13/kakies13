@@ -110,21 +110,24 @@ I'm **Alperen Yıldırım**, a passionate full-stack developer who loves buildin
 
 ---
 
-### 📑 BillingTick — *Invoice OCR*
-> 🇬🇧 Android invoice recognition app with multi-language support and global currency handling.  
-> 🇹🇷 Çok dilli destek ve global para birimi ile fatura tanıma uygulaması.
+### 💼 To Do & Finance App — *Productivity · Desktop*
+> 🇬🇧 Cross-platform desktop app for managing notes with alarms and tracking personal finances — all stored locally with full privacy.  
+> 🇹🇷 Notları alarm ile yönetme ve kişisel finansları takip etme amaçlı çok platformlu masaüstü uygulaması — tüm veriler yerel olarak saklanır.
 
-- **Stack:** React Native, TypeScript, Firebase, OCR
-- **Features / Özellikler:** 6 languages · Global currency · Invoice recognition
+[![GitHub](https://img.shields.io/badge/GitHub-to--do--and--finance--app-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kakies13/to-do-and-finance-app)
+- **Stack:** Electron, Node.js, JavaScript, HTML/CSS, JSON Database
+- **Features / Özellikler:** Note management with alarms · Income & expense tracking · Category management · Installment tracking · Dashboard with charts · Modern dark theme · Windows / macOS / Linux
 
 ---
 
-### 🔍 QR Scanner Professional — *Productivity*
-> 🇬🇧 Professional QR and barcode scanner with product recognition for global markets.  
-> 🇹🇷 Global pazarlar için ürün tanıma özellikli profesyonel QR ve barkod tarayıcı.
+### 🎮 GameInSteam — *Desktop Tool · Steam*
+> 🇬🇧 Ultimate Steam Library Manager — add any game to your Steam library with a single click. Features a professional installer, batch game adding, and a sleek dark UI.  
+> 🇹🇷 Steam kütüphanenize tek tıklamayla oyun ekleyin. Profesyonel kurulum, toplu oyun ekleme ve şık karanlık arayüz ile birlikte gelir.
 
-- **Stack:** Kotlin, Android, ML Kit, Room Database
-- **Features / Özellikler:** Global markets · Product recognition · Multi-language
+[![GitHub](https://img.shields.io/badge/GitHub-GameInSteam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kakies13/GameInSteam)
+[![Website](https://img.shields.io/badge/Website-game--in--steam.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://game-in-steam.vercel.app)
+- **Stack:** Python, HTML/CSS, Inno Setup, Windows
+- **Features / Özellikler:** One-click game adding · Batch adding · Auto file handling · Professional installer · Premium dark UI · 16 releases · ⭐ 7 stars
 
 ---
 
