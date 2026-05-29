@@ -167,6 +167,9 @@ I'm **Alperen Yıldırım**, a passionate full-stack developer who loves buildin
 
 ## 🌟 Featured Projects · Öne Çıkan Projeler
 
+### Berliner Restaurant Wien
+https://www.berlinerrestaurant.at/
+
 ### 🤖 AI Store Gen
 > 🇬🇧 AI-powered Google Play Store screenshot generator using Gemini 2.5 AI  
 > 🇹🇷 Gemini 2.5 yapay zekası ile Google Play Store ekran görüntüsü üretici
