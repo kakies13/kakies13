@@ -159,7 +159,7 @@ I'm **Alperen Yıldırım**, a passionate full-stack developer who loves buildin
 > 🇬🇧 A comprehensive Quran companion app offering full Quran text, Turkish and multi-language translations, audio recitations, prayer times, and more — all offline-capable.  
 > 🇹🇷 Tam Kuran metni, Türkçe ve çok dilli meal, sesli tilavet, namaz vakitleri ve daha fazlasını barındıran kapsamlı bir Kuran külliyat uygulaması — çevrimdışı kullanım destekli.
 
-![Coming Soon](https://img.shields.io/badge/Google_Play-Yakında%20%7C%20Coming%20Soon-orange?style=for-the-badge&logo=google-play&logoColor=white)
+[![Google Play](https://img.shields.io/badge/Google_Play-Yakında%20%7C%20Coming%20Soon-orange?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.qurankulliyat)
 - **Stack:** Kotlin, Android, Room Database, AdMob
 - **Features / Özellikler:** Full Quran offline · TR & multi-language translations · Audio recitations · Prayer times · Bookmarks
 
